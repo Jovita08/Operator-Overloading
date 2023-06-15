@@ -7,15 +7,17 @@ To write a C# program to pass values through constructors(default and parameteri
  
 ## Algorithm:
 ### Step1:
-Create a class for operator overloading.
-### Step2:
-Values are passed through constructors.
-### Step3:
-After that return the bool operator.
-### Step4:
-Then create a new object to store the return object.
-### Step5:
-After that print the calculated volume.
+Create a class named program.
+### Step 2:
+Create two constructors with different arguments to implement operator overloading
+### Step 3:
+Create boolean operators to check equals and not equal condition and to implement operator overloading.
+### Step 4:
+Create a Main function
+### Step 5:
+Create two objects. One without arguments & the other with arguments
+### Step 6:
+Check whether the objects are equal or not using if-else condition
  
  
  ## Program:
