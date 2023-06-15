@@ -3,7 +3,7 @@
 
 
 ## Aim:
-To write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading. 
+To write a C# program to pass values through constructors and overload equal operators by checking whether objects are equal using operator overloading. 
  
 ## Algorithm:
 ### Step1:
@@ -79,9 +79,9 @@ namespace OperatorOverloading
  ```
 
  
- ## Output:
+## Output:
 ![image](ama.png)
 
  
- ## Result:
+## Result:
 C# program to find the volume of a box using operator overloading is implemented successfully.
